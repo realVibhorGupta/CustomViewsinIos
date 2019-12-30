@@ -1,0 +1,6 @@
+framework module Pods_Forms_with_EASY_Keyboard_Management__UIScrollView___LBTAFormController_ {
+  umbrella header "Pods-Forms with EASY Keyboard Management (UIScrollView - LBTAFormController)-umbrella.h"
+
+  export *
+  module * { export * }
+}

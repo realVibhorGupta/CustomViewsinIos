@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_Forms_with_EASY_Keyboard_Management__UIScrollView___LBTAFormController_ : NSObject
+@end
+@implementation PodsDummy_Pods_Forms_with_EASY_Keyboard_Management__UIScrollView___LBTAFormController_
+@end
